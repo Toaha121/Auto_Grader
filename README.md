@@ -1,1 +1,1 @@
-A Vault for my C projects &)
+A vault for my C projects
