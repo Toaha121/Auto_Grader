@@ -1,8 +1,8 @@
-Overview
+# Overview
 ********
 Auto Grader is a software tool designed to assist the Computer Science department in managing and automating the course allocation process. Developed as a part of an academic assignment, this system handles the assignment of courses to professors based on provided data files.
 
-Features
+# Features
 ********
     •	File Handling: Reads course and professor data from external files.
     •	Dynamic Allocation: Supports allocation for a variable number of courses and professors.
@@ -12,14 +12,14 @@ Features
 
 
 
-Technical Details
+# Technical Details
 *****************
     •	Languages Used: C (Standard: C99)
     •	Key Concepts: File handling, command-line arguments, arrays, strings, and data structures.
     •	Development Tools: Makefile for compilation and GitLab for version control.
 
 
-Functionality
+# Functionality
 *************
     1.	File Reading: Opens and reads data from specified files.
     2.	Data Processing: Processes course and professor information into structured formats.
@@ -28,7 +28,7 @@ Functionality
     5.	User Interaction: Provides a menu for accessing various functionalities.
 
 
-Compilation and Execution
+# Compilation and Execution
 *************************
 Compiled using -std=c99 -Wall flags. The makefile provided simplifies the compilation process.
 Running the Program
@@ -36,7 +36,7 @@ bashCopy code---
 ./ShamsToahaAymanA1
 
 
-Usage
+# Usage
 *****
     •	First, populate the data using functions from tasks 1, 2, and 3.
     •	Interact with the system through the menu to perform tasks 4 to 8.
