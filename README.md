@@ -43,7 +43,7 @@ bashCopy code---
     •	The system exits when a choice other than 4, 5, 6, 7, or 8 is entered.
 
 
-Future Enhancements
+# Future Enhancements
 *******************
     •	Implementing a more robust error-handling mechanism.
     •	Enhancing the prediction algorithm for course allocation.
